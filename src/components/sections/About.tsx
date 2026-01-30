@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import { profile } from "@/data/profile"; // Ensure this exists from previous step
+// import { profile } from "@/data/profile"; 
 import { Terminal } from "lucide-react";
 
 export default function About() {

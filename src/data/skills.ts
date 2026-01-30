@@ -1,5 +1,4 @@
-import { Code, Database, Brain, Globe, Terminal } from "lucide-react"; // Example icons
-
+import { Code, Database, Brain, Globe } from "lucide-react";
 export const skills = [
   {
     category: "Programming",

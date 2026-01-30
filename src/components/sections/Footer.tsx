@@ -20,7 +20,7 @@ export default function Footer() {
           Designed & Built by <span className="text-cyber-cyan">Ritesh Goyal</span>
         </p>
         <p className="text-xs text-gray-600 mt-2">
-          © {new Date().getFullYear()} • React + Tailwind + Framer Motion
+          © {new Date().getFullYear()}
         </p>
       </div>
     </footer>
